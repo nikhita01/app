@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high.
+        \n Blood glucose is your main source of energy and comes from the food you eat.
+        \n Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
+        \n Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well.
+        \n Glucose then stays in your blood and doesn’t reach your cells.
+
+Over time, having too much glucose in your blood can cause health problems.\n
+Although diabetes has no cure, you can take steps to manage your diabetes and stay healthy.\n
+
+Sometimes people call diabetes a touch of sugar or borderline diabetes.\n
+These terms suggest that someone doesn’t really have diabetes or has a less serious case, but every case of diabetes is serious.\n
+
+What health problems can people with diabetes develop?
+Over time, high blood glucose leads to problems such as
+        \n\n
+
+heart disease\n
+stroke\n
+kidney disease\n
+eye problems\n
+dental disease\n
+nerve damage\n
+foot problems\n
+
+\n\n
+Here are some tips to help you reduce your risk of type 2 diabetes.\n
+
+1> Check your risk of diabetes.\n Take the Life! risk assessment test and learn more about your risk of developing type 2 diabetes.\n A 12+ score indicates that you are at high risk and may be eligible for the Life! program - a free Victorian lifestyle modification program that helps you reduce your
+risk of type 2 diabetes and cardiovascular disease, or call 13 RISK (13 7475).\n
+\n\n
+2> Manage your weight.\n Excess body fat, particularly if stored around the abdomen,
+can increase the body’s resistance to the hormone insulin.\n This can lead to type 2 diabetes.\n
+\n\n
+3> Exercise regularly.\n Moderate physical activity on most days of the week helps manage weight, reduce blood glucose levels and may also improve blood pressure and cholesterol.\n
+\n\n
+4> Eat a balanced, healthy diet.\n Reduce the amount of fat in your diet, especially saturated and trans fats.\n Eat more fruit, vegetables and high-fibre foods.\n Cut back on salt.\n
+\n\n
+5> Limit takeaway and processed foods.\n ‘Convenience meals’ are usually high in salt, fat and kilojoules.\n It’s best to cook for yourself using fresh ingredients whenever possible.\n
+\n\n
+6> Limit your alcohol intake.\n Too much alcohol can lead to weight gain and may increase your blood pressure and triglyceride levels.\n Men should have no more than two standard drinks a day and women should have no more than one.\n
+\n\n
+7> Quit smoking.\n Smokers are twice as likely to develop diabetes as non-smokers.\n
+\n\n
+8> Control your blood pressure.\n Most people can do this with regular exercise, a balanced diet and by keeping a healthy weight.\n In some cases, you might need medication prescribed by your doctor.\n
+\n\n
+9> Reduce your risk of cardiovascular disease.\n Diabetes and cardiovascular disease have many risk factors in common, including obesity and physical inactivity.\n
+\n\n
+10> See your doctor for regular check-ups.\n As you get older, it’s a good idea to regularly check your blood glucose, blood pressure and blood cholesterol levels.\n"
+        "
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_information">information</string>
+</resources>
